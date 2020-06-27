@@ -12,11 +12,10 @@ https://protonvpn.com/
 ## Installation
 
  **__Simple installation:__**
-> chmod +x install.sh
+> chmod +x menu.sh
 
-> ./install.sh
+> chmod +x menu.txt
 
 **__Run:__**
-> chmod +x menu.sh
 
 > ./menu.sh
